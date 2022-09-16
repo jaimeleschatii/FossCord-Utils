@@ -1,7 +1,5 @@
-from lib2to3.pgen2 import token
+import requests, threading
 from random import randint
-import requests
-import threading
 
 def spam():
     tokens=open("tokens.txt", "r").read().splitlines()
