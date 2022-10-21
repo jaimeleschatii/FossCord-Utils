@@ -18,6 +18,6 @@ Tools:
     - Spammer
 ```
 ```
-✔️ PATCHED GEN UPDATE SOON
-✔️ SPAMMER NOT PATCH
+✔️ GEN UNPATCHED
+✔️ SPAMMER NOT PATCH ( RATE LIMITE )
 ````
